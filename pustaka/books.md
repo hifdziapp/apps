@@ -1,5 +1,5 @@
 |Title|Title Translit.|Author|Author Translit.|Category|Language|
-|---|---|---|---|---|
+|---|---|---|---|---|---|
 |الأذكياء|al-Adhkiyaa|ابن الجوزي|Ibn al-Jauzi|siroh|ar|
 |اخبار النساء|Akhbaar an-Nisaa|ابن الجوزي|Ibn al-Jauzi|siroh|ar|
 |الأربعون في أصول الدين|al-Arba'uun fii Ushuul ad-Diin|الغزالي، أبو حامد|al-Ghazali, Abu Hamid|aqidah|ar|
